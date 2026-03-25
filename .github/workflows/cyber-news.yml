@@ -22,20 +22,20 @@ jobs:
         run: |
           curl -s https://feeds.feedburner.com/TheHackersNews > feed.xml
           
-          echo "# 🔐 Cybersecurity News" > CYBERSECURITY_NEWS.md
-          echo "" >> CYBERSECURITY_NEWS.md
-          echo "Last updated: $(date)" >> CYBERSECURITY_NEWS.md
-          echo "" >> CYBERSECURITY_NEWS.md
+          echo "# 🔐 Cybersecurity News" > README.md
+          echo "" >> README.md
+          echo "Last updated: $(date)" >> README.md
+          echo "" >> README.md
           
           grep -oP '(?<=<title>).*?(?=</title>)' feed.xml | head -n 10 | tail -n +2 | while read line
           do
-            echo "- $line" >> CYBERSECURITY_NEWS.md
+            echo "- $line" >> README.md
           done
 
       - name: Commit and push changes
         run: |
           git config user.name "AryaVeerJai"
           git config user.email "aryansingh879791@gmail.com"
-          git add CYBERSECURITY_NEWS.md
+          git add README.md
           git diff --cached --quiet || git commit -m "Cybersecurity news update"
           git push
