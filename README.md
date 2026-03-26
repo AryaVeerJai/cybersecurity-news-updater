@@ -1,7 +1,8 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Mar 26 06:46:28 UTC 2026
+Last updated: Thu Mar 26 11:27:59 UTC 2026
 
+- WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites
 - LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace
 - GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data
 - The Kill Chain Is Obsolete When Your AI Agent Is the Threat
@@ -10,4 +11,3 @@ Last updated: Thu Mar 26 06:46:28 UTC 2026
 - FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns
 - TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise
 - Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR
-- 5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents
