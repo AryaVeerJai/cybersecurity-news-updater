@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Mar 26 11:27:59 UTC 2026
+Last updated: Tue Mar 31 11:27:16 UTC 2026
 
-- WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites
-- LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace
-- GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data
-- The Kill Chain Is Obsolete When Your AI Agent Is the Threat
-- Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks
-- Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse
-- FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns
-- TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise
-- Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR
+- Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account
+- OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability
+- DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials
+- ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More
+- 3 SOC Process Fixes That Unlock Tier 1 Productivity
+- Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels
+- The State of Secrets Sprawl 2026: 9 Takeaways for CISOs
+- Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign
+- Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack
