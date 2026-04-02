@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Mar 31 11:27:16 UTC 2026
+Last updated: Thu Apr  2 11:24:57 UTC 2026
 
-- Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account
-- OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability
-- DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials
-- ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More
-- 3 SOC Process Fixes That Unlock Tier 1 Productivity
-- Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels
-- The State of Secrets Sprawl 2026: 9 Takeaways for CISOs
-- Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign
-- Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack
+- WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action
+- Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit
+- CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails
+- Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass
+- Block the Prompt, Not the Work: The End of "Doctor No"
+- Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures
+- New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released
+- 3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)
+- Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069
