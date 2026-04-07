@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Apr  2 11:24:57 UTC 2026
+Last updated: Tue Apr  7 11:29:47 UTC 2026
 
-- WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action
-- Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit
-- CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails
-- Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass
-- Block the Prompt, Not the Work: The End of "Doctor No"
-- Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures
-- New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released
-- 3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)
-- Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069
+- New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips
+- China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware
+- Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed
+- Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations
+- DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea
+- Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps
+- ⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More
+- How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers
+- Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools
