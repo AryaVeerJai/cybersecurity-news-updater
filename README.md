@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Apr  9 11:31:10 UTC 2026
+Last updated: Tue Apr 14 11:37:23 UTC 2026
 
-- New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy
-- Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices
-- APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies
-- Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)
-- Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems
-- N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust
-- Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs
-- Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign
-- [Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk
+- Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads
+- Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)
+- 108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users
+- ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers
+- CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software
+- JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025
+- FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts
+- ⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More
+- Your MTTD Looks Great. Your Post-Alert Gap Doesn't
