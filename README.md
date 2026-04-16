@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Apr 14 11:37:23 UTC 2026
+Last updated: Thu Apr 16 11:37:22 UTC 2026
 
-- Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads
-- Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)
-- 108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users
-- ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers
-- CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software
-- JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025
-- FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts
-- ⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More
-- Your MTTD Looks Great. Your Post-Alert Gap Doesn't
+- UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign
+- n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails
+- Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover
+- April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More
+- Deterministic + Agentic AI: The Architecture Exposure Validation Requires
+- Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities
+- OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams
+- New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released
+- Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security
