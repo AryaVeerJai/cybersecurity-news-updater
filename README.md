@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Apr 16 11:37:22 UTC 2026
+Last updated: Tue Apr 21 11:39:03 UTC 2026
 
-- UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign
-- n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails
-- Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover
-- April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More
-- Deterministic + Agentic AI: The Architecture Exposure Validation Requires
-- Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities
-- OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams
-- New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released
-- Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security
+- No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks
+- NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs
+- Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution
+- CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines
+- SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files
+- ⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge &amp; More
+- Why Most AI Deployments Stall After the Demo
+- Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain
+- Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems
