@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Apr 21 11:39:03 UTC 2026
+Last updated: Thu Apr 23 11:39:50 UTC 2026
 
-- No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks
-- NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs
-- Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution
-- CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines
-- SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files
-- ⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge &amp; More
-- Why Most AI Deployments Stall After the Demo
-- Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain
-- Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems
+- China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors
+- Vercel Finds More Compromised Accounts in Context.ai-Linked Breach
+- Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages
+- Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain
+- Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens
+- Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API
+- Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack
+- Toxic Combinations: When Cross-App Permissions Stack into Risk
+- Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug
