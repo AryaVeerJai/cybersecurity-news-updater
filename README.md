@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Apr 23 11:39:50 UTC 2026
+Last updated: Tue Apr 28 12:10:23 UTC 2026
 
-- China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors
-- Vercel Finds More Compromised Accounts in Context.ai-Linked Breach
-- Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages
-- Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain
-- Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens
-- Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API
-- Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack
-- Toxic Combinations: When Cross-App Permissions Stack into Risk
-- Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug
+- Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE
+- After Mythos: New Playbooks For a Zero-Window Era
+- Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks
+- Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover
+- Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202
+- Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack
+- ⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking &amp; More
+- Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side
+- PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks
