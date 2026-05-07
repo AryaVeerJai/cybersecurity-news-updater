@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue May  5 11:48:46 UTC 2026
+Last updated: Thu May  7 12:17:02 UTC 2026
 
-- We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is
-- ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows
-- Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API
-- Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries
-- Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools
-- Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass
-- ⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE &amp; More
-- 2026: The Year of AI-Assisted Attacks
-- Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia
+- ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories
+- Day Zero Readiness: The Operational Gaps That Break Incident Response
+- PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux
+- vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution
+- Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks
+- MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack
+- The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open
+- Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?
+- Google's Android Apps Get Public Verification to Stop Supply Chain Attacks
