@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu May  7 12:17:02 UTC 2026
+Last updated: Tue May 12 12:24:00 UTC 2026
 
-- ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories
-- Day Zero Readiness: The Operational Gaps That Break Incident Response
-- PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux
-- vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution
-- Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks
-- MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack
-- The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open
-- Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?
-- Google's Android Apps Get Public Verification to Stop Supply Chain Attacks
+- Why Agentic AI Is Security's Next Blind Spot
+- Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI &amp; More Packages
+- Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak
+- OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation
+- iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android
+- TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack
+- cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor
+- Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation
+- ⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More
