@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu May 14 12:10:55 UTC 2026
+Last updated: Tue May 19 13:40:52 UTC 2026
 
-- PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure
-- How AI Hallucinations Are Creating Real Security Risks
-- Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation
-- New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption
-- 18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE
-- Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday
-- Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation
-- [Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud
-- Most Remediation Programs Never Confirm the Fix Actually Worked
+- The New Phishing Click: How OAuth Consent Bypasses MFA
+- Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare
+- SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access
+- Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer
+- Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials
+- Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account
+- INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests
+- ⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More
+- How to Reduce Phishing Exposure Before It Turns into Business Disruption
