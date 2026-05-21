@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue May 19 13:40:52 UTC 2026
+Last updated: Thu May 21 13:44:03 UTC 2026
 
-- The New Phishing Click: How OAuth Consent Bypasses MFA
-- Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare
-- SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access
-- Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer
-- Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials
-- Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account
-- INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests
-- ⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More
-- How to Reduce Phishing Exposure Before It Turns into Business Disruption
+- ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories
+- Microsoft Warns of Two Actively Exploited Defender Vulnerabilities
+- When Identity is the Attack Path
+- 9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros
+- GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension
+- Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks
+- Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development
+- Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks
+- Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API
