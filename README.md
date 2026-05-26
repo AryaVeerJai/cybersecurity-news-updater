@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu May 21 13:44:03 UTC 2026
+Last updated: Tue May 26 13:26:57 UTC 2026
 
-- ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories
-- Microsoft Warns of Two Actively Exploited Defender Vulnerabilities
-- When Identity is the Attack Path
-- 9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros
-- GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension
-- Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks
-- Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development
-- Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks
-- Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API
+- New AI DDoS Attacks Are Smarter. Learn How to Fight Back in This Webinar
+- Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions
+- MFA Prompt Bombing: Why Your Second Factor Isn't Saving You
+- CERT-In Mandates 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks
+- Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning
+- KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike
+- ⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos
+- Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks
+- The Alert Firehose Finally Meets Its Match
