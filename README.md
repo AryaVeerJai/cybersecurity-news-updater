@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue May 26 13:26:57 UTC 2026
+Last updated: Thu May 28 14:09:42 UTC 2026
 
-- New AI DDoS Attacks Are Smarter. Learn How to Fight Back in This Webinar
-- Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions
-- MFA Prompt Bombing: Why Your Second Factor Isn't Saving You
-- CERT-In Mandates 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks
-- Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning
-- KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike
-- ⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos
-- Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks
-- The Alert Firehose Finally Meets Its Match
+- Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal
+- ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More
+- New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI "Power users"
+- JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware
+- Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users
+- Malicious npm Package Stole Files From Claude AI User Directory via GitHub
+- 5 Steps to Managing Shadow AI Tools Without Slowing Down Employees
+- GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure
+- 3 SOC Steps that Shut Down Incident Risks Early
