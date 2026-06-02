@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu May 28 14:09:42 UTC 2026
+Last updated: Tue Jun  2 14:36:31 UTC 2026
 
-- Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal
-- ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More
-- New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI "Power users"
-- JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware
-- Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users
-- Malicious npm Package Stole Files From Claude AI User Directory via GitHub
-- 5 Steps to Managing Shadow AI Tools Without Slowing Down Employees
-- GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure
-- 3 SOC Steps that Shut Down Incident Risks Early
+- AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.
+- How Leading Organizations Are Turning EDR Into Operational Resilience
+- Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT
+- Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded
+- Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm
+- ⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More
+- China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic &amp; Taiwan
+- The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools
+- OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack
