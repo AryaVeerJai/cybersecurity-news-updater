@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Jun  4 13:39:39 UTC 2026
+Last updated: Tue Jun  9 13:24:08 UTC 2026
 
-- China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa
-- FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads
-- Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS
-- Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months
-- DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets
-- WhatsApp, Slack Notifications Could Hijack Google Gemini on Android
-- One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens
-- Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)
-- CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog
+- WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine
+- Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models
+- Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now
+- The Hidden Security Risk in Modern Networks: The Work Between Tools
+- New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing
+- Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer
+- LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE
+- One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public
+- Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order
