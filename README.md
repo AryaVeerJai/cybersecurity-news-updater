@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Jun  9 13:24:08 UTC 2026
+Last updated: Thu Jun 11 14:23:14 UTC 2026
 
-- WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine
-- Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models
-- Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now
-- The Hidden Security Risk in Modern Networks: The Work Between Tools
-- New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing
-- Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer
-- LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE
-- One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public
-- Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order
+- Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories
+- ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories
+- AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.
+- OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack
+- GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks
+- China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance
+- Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities
+- Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE
+- CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation
