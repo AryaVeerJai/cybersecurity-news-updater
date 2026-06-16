@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Jun 11 14:23:14 UTC 2026
+Last updated: Tue Jun 16 15:27:53 UTC 2026
 
-- Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories
-- ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories
-- AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.
-- OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack
-- GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks
-- China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance
-- Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities
-- Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE
-- CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation
+- New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds
+- Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive
+- Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week
+- China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth
+- Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware
+- Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw
+- CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation
+- Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails
+- North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels
