@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Jul  2 12:28:24 UTC 2026
+Last updated: Tue Jul  7 12:42:18 UTC 2026
 
-- Identity Lifecycle Management Wasn't Built for AI Agents 
-- AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack
-- FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations
-- New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos
-- SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation
-- Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters
-- 19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges
-- SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT
-- VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer
+- What Changes When Your Software Supply Chain Includes AI Writing Your Code?
+- Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities
+- CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware
+- BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA
+- Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations
+- 16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems
+- Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure
+- ⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More
+- How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions
