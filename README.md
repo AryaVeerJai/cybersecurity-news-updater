@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Jul  7 12:42:18 UTC 2026
+Last updated: Thu Jul  9 13:30:25 UTC 2026
 
-- What Changes When Your Software Supply Chain Includes AI Writing Your Code?
-- Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities
-- CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware
-- BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA
-- Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations
-- 16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems
-- Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure
-- ⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More
-- How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions
+- AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up
+- Summer of Clearinghouses
+- GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses
+- Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges
+- Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images
+- Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It
+- GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents
+- Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes
+- AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers
