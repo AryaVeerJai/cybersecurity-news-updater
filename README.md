@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Jul  9 13:30:25 UTC 2026
+Last updated: Tue Jul 14 11:54:22 UTC 2026
 
-- AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up
-- Summer of Clearinghouses
-- GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses
-- Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges
-- Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images
-- Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It
-- GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents
-- Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes
-- AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers
+- Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read
+- U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support
+- 148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet
+- Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity
+- CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks
+- Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found
+- ⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More
+- New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email
+- Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft
