@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Jul 14 11:54:22 UTC 2026
+Last updated: Thu Jul 16 12:01:10 UTC 2026
 
-- Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read
-- U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support
-- 148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet
-- Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity
-- CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks
-- Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found
-- ⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More
-- New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email
-- Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft
+- AI Can Find Bugs, But Human Knowledge Still Proves Them
+- Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide
+- OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol
+- Zoom Patches Critical Windows Flaw That Could Enable Account Takeover
+- TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development
+- OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps
+- Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws
+- SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.
+- Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday
