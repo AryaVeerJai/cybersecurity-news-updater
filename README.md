@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Jul 16 12:01:10 UTC 2026
+Last updated: Tue Jul 21 12:08:17 UTC 2026
 
-- AI Can Find Bugs, But Human Knowledge Still Proves Them
-- Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide
-- OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol
-- Zoom Patches Critical Windows Flaw That Could Enable Account Takeover
-- TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development
-- OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps
-- Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws
-- SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.
-- Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday
+- WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning
+- New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack
+- Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution
+- FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware
+- Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign
+- HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050
+- ⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More
+- Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine
+- Mythos Didn't Break Your Security Program. Your Exposure Window Could.
