@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Jul 28 12:20:44 UTC 2026
+Last updated: Thu Jul 30 12:11:41 UTC 2026
 
-- Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In
-- Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit
-- Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost
-- Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw
-- NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework
-- Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption
-- Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw
-- ⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More
-- n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process
+- Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts
+- SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT
+- Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation
+- FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks
+- Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet
+- Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data
+- Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads
+- Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory
+- Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape
