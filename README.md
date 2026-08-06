@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Aug  4 12:25:32 UTC 2026
+Last updated: Thu Aug  6 12:25:26 UTC 2026
 
-- New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root
-- DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT
-- CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises
-- 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users
-- Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts
-- INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws
-- ⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks
-- FOMO in the SOC: Where AI Platforms like Claude Actually Fit
-- Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS
+- CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps
+- Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses
+- AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory
+- Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access
+- AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model
+- Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells
+- Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service
+- CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild
+- Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People
