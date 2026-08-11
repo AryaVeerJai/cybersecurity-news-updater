@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Aug  6 12:25:26 UTC 2026
+Last updated: Tue Aug 11 11:20:03 UTC 2026
 
-- CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps
-- Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses
-- AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory
-- Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access
-- AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model
-- Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells
-- Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service
-- CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild
-- Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People
+- Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11
+- Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets
+- Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks
+- Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine
+- BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins
+- Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development
+- China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw
+- ⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors
+- Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development
