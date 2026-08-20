@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Aug 18 10:55:42 UTC 2026
+Last updated: Thu Aug 20 10:57:15 UTC 2026
 
-- SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers
-- CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE
-- Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects
-- Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection
-- Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads
-- Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic
-- ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More
-- How MCP Servers Can Expose Enterprise Secrets
-- Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access
+- Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code
+- Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second
+- OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior
+- SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs
+- Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P
+- Phishing 3.0: The Fight Moves to Agent Versus Agent
+- StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data
+- Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation
+- Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure
