@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Aug 20 10:57:15 UTC 2026
+Last updated: Tue Aug 25 10:59:29 UTC 2026
 
-- Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code
-- Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second
-- OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior
-- SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs
-- Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P
-- Phishing 3.0: The Fight Moves to Agent Versus Agent
-- StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data
-- Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation
-- Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure
+- Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access
+- Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data
+- Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt
+- Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning
+- ⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More
+- WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords
+- Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account
+- Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor
+- The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk
