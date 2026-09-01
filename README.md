@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Aug 27 20:41:07 UTC 2026
+Last updated: Tue Sep  1 15:05:23 UTC 2026
 
-- OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
-- Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE
-- ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories
-- Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers
-- Learn How to Build Security Operations Ready for AI-Powered Attacks
-- Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks
-- What the Data Says About AI in Security Operations in 2026
-- Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools
-- GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address
+- 13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds
+- Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests
+- Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones
+- Attackers Steal METR API Key and Consume AI Credits Worth About $600,000
+- Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis
+- Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity
+- North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales
+- ⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More
+- ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions
