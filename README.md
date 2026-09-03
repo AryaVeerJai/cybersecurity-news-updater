@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Sep  1 15:05:23 UTC 2026
+Last updated: Thu Sep  3 14:40:58 UTC 2026
 
-- 13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds
-- Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests
-- Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones
-- Attackers Steal METR API Key and Consume AI Credits Worth About $600,000
-- Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis
-- Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity
-- North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales
-- ⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More
-- ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions
+- US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries
+- Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks
+- Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means
+- Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone
+- Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon
+- CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners
+- Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs
+- Fake Software Installers Disable Windows Update and Weaken Microsoft Defender
+- Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code
