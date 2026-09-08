@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Sep  3 14:40:58 UTC 2026
+Last updated: Tue Sep  8 14:42:15 UTC 2026
 
-- US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries
-- Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks
-- Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means
-- Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone
-- Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon
-- CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners
-- Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs
-- Fake Software Installers Disable Windows Update and Weaken Microsoft Defender
-- Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code
+- WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls
+- What It Took to Reach 1 Billion Build Manifests
+- FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials
+- Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell
+- BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams
+- Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing
+- PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution
+- Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks
+- ⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More
