@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Sep 10 14:34:03 UTC 2026
+Last updated: Tue Sep 15 15:10:44 UTC 2026
 
-- Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE
-- PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances
-- Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks
-- CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline
-- Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example "sk-1234" Admin Key
-- Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6
-- U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto
-- Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week
-- Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA
+- Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds
+- Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point
+- Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers
+- LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server
+- Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution
+- China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE
+- New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing
+- 3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials
+- Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports
