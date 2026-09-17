@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Sep 15 15:10:44 UTC 2026
+Last updated: Thu Sep 17 15:11:01 UTC 2026
 
-- Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds
-- Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point
-- Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers
-- LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server
-- Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution
-- China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE
-- New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing
-- 3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials
-- Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports
+- Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone
+- Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar
+- CISO's Expert Guide to Agentic Pentesting for Websites
+- China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America
+- OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads
+- BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS
+- Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records
+- Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks
+- U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks
