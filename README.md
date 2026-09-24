@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Sep 22 15:06:51 UTC 2026
+Last updated: Thu Sep 24 15:23:54 UTC 2026
 
-- AI Agents Are Rewriting the Rules of Lateral Movement
-- New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups
-- DORA Year Two: Can Your SOC Actually See the Attack?
-- New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory
-- SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE
-- Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal
-- SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing
-- One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor
-- WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session
+- Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer
+- Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls
+- Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore
+- 17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360
+- OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files
+- TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords
+- Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure
+- Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry
+- A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You
