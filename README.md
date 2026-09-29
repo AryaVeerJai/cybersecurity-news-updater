@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Sep 24 15:23:54 UTC 2026
+Last updated: Tue Sep 29 16:35:17 UTC 2026
 
-- Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer
-- Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls
-- Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore
-- 17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360
-- OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files
-- TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords
-- Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure
-- Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry
-- A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You
+- Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown
+- 101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent
+- Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation
+- Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials
+- OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions
+- OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot
+- Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks
+- Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks
+- IAM for AI agents: A Practical Enterprise Framework
