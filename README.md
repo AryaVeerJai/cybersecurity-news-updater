@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Sep 29 16:35:17 UTC 2026
+Last updated: Thu Oct  1 17:05:49 UTC 2026
 
-- Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown
-- 101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent
-- Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation
-- Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials
-- OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions
-- OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot
-- Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks
-- Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks
-- IAM for AI agents: A Practical Enterprise Framework
+- Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
+- ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories
+- WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory
+- How Financial Services Companies Can Modernize Their Software Supply Chain
+- OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates
+- CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV
+- Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version
+- Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path
+- Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft
