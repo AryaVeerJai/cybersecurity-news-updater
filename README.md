@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Oct  1 17:05:49 UTC 2026
+Last updated: Tue Oct  6 16:53:15 UTC 2026
 
-- Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
-- ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories
-- WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory
-- How Financial Services Companies Can Modernize Their Software Supply Chain
-- OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates
-- CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV
-- Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version
-- Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path
-- Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft
+- LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings
+- Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies
+- Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers
+- Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports
+- Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products
+- FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach
+- Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account
+- ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits
+- Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes
