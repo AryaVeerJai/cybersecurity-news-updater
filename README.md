@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Oct  6 16:53:15 UTC 2026
+Last updated: Thu Oct  8 17:31:23 UTC 2026
 
-- LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings
-- Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies
-- Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers
-- Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports
-- Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products
-- FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach
-- Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account
-- ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits
-- Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes
+- Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks
+- UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML
+- ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms
+- Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia
+- 16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases
+- U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks
+- MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data
+- Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm
+- Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains
