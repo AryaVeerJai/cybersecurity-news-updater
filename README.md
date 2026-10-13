@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Oct  8 17:31:23 UTC 2026
+Last updated: Tue Oct 13 17:43:24 UTC 2026
 
-- Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks
-- UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML
-- ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms
-- Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia
-- 16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases
-- U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks
-- MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data
-- Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm
-- Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains
+- GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking
+- Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation
+- [Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls
+- LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network
+- Product Walkthrough: Bitdefender AI Visibility and Control
+- Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers
+- Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control
+- GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code
+- Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies
