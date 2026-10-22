@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Oct 20 15:16:46 UTC 2026
+Last updated: Thu Oct 22 15:28:51 UTC 2026
 
-- Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites
-- Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election
-- WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators
-- What Security Teams Can Do To Tame Wild Code
-- Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns
-- Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader
-- ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident
-- Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware
-- ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan
+- INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown
+- The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat
+- Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation
+- OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL
+- LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release
+- Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions
+- New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification
+- Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed
+- China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack
