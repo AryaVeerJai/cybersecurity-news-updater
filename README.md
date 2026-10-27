@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Oct 22 15:28:51 UTC 2026
+Last updated: Tue Oct 27 15:57:17 UTC 2026
 
-- INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown
-- The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat
-- Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation
-- OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL
-- LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release
-- Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions
-- New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification
-- Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed
-- China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack
+- Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens
+- Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key
+- AI-Generated Fake Login Pages Are Making Account Takeovers Easier
+- Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption
+- Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers
+- OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections
+- Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses
+- CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution
+- Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento
