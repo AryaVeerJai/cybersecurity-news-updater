@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Oct 27 15:57:17 UTC 2026
+Last updated: Thu Oct 29 17:01:13 UTC 2026
 
-- Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens
-- Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key
-- AI-Generated Fake Login Pages Are Making Account Takeovers Easier
-- Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption
-- Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers
-- OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections
-- Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses
-- CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution
-- Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento
+- Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions
+- Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners
+- Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities
+- Webinar: How to Build AI Threat Readiness Into Your Security Operations
+- Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls
+- The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers
+- 26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories
+- Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
+- GitHub Launches npm Firewall to Block Malicious Packages Before Installation
