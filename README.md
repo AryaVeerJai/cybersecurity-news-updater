@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Thu Oct 29 17:01:13 UTC 2026
+Last updated: Tue Nov  3 17:58:23 UTC 2026
 
-- Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions
-- Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners
-- Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities
-- Webinar: How to Build AI Threat Readiness Into Your Security Operations
-- Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls
-- The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers
-- 26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories
-- Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
-- GitHub Launches npm Firewall to Block Malicious Packages Before Installation
+- Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft
+- Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access
+- Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges
+- cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes
+- Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing
+- The 4 Elements of Exposure Prioritization and How to Operationalize Them
+- Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware
+- Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets
+- Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw
