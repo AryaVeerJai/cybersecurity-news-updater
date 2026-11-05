@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Nov  3 17:58:23 UTC 2026
+Last updated: Thu Nov  5 18:11:24 UTC 2026
 
-- Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft
-- Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access
-- Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges
-- cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes
-- Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing
-- The 4 Elements of Exposure Prioritization and How to Operationalize Them
-- Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware
-- Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets
-- Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw
+- ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories
+- Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out
+- OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run
+- 5 Active Cyber Threats That Put US Enterprises at Risk in October 2026
+- Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content
+- CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access
+- Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution
+- Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says
+- Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root
