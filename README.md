@@ -1,13 +1,13 @@
 # 🔐 Cybersecurity News
 
-Last updated: Tue Nov 17 19:16:25 UTC 2026
+Last updated: Thu Nov 19 19:05:29 UTC 2026
 
-- Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap
-- Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission
-- New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels
-- Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks
-- Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors
-- ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems
-- N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners
-- Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches
-- ⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days
+- phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution
+- PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution
+- Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication
+- Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites
+- Everything Is a Web Application, Including Your Firewall
+- Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions
+- Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE
+- Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle
+- CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks
